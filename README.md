@@ -1,3 +1,3 @@
 # sathwika-demo
 
-.author-sathwika
+
